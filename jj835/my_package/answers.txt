@@ -1,0 +1,18 @@
+inspect.getfile(os.path.abspath):  /usr/lib/python2.7/posixpath.py
+
+
+num = !ls -a /etc/ | grep -v / | wc -l
+num=239
+
+OR
+
+num=len(os.listdir('/etc'))
+num=237
+
+num**0.5
+15.3948...
+
+fastet is x*x with 75.9ns per loop
+
+%lsmagic
+24 cell magics
